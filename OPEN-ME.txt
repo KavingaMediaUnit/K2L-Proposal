@@ -1,1 +1,0 @@
-Extract the HTML file, then open it with Chrome, Safari, Edge or Firefox. The supplied K2L transformation image is embedded in the HTML. Use Print > Save as PDF to export a PDF copy.
